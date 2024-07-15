@@ -66,7 +66,3 @@ The test suite includes the following tests for the login functionality:
     git push origin feature/your-feature-name
     ```
 6. **Open a pull request**.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
